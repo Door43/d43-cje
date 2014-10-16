@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cje:home|Door43 (cje)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cje|d43-cje repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cje/archive/master.zip|d43-cje.zip]]
+
+**Recent Changes**
+{{changes>ns = cje}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cje|Ethnologue data]]
+
